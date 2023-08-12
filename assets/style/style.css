@@ -1,0 +1,15 @@
+div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+img {
+  display: flex;
+  border-radius: 2%;
+  border: solid 3px #7fffd4;
+  width: 32%;
+  height: fit-content;
+  margin-bottom: 10px;
+}
